@@ -1,3 +1,3 @@
 # demo
 First Repository
-Auhtor - Nishant Chauhan
+Author - Nishant Chauhan
